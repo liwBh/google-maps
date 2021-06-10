@@ -1,0 +1,8 @@
+#visual code
+.vscode
+
+# node_modules
+/node_modules
+
+# packege-lock
+package-lock.json
